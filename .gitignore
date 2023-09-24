@@ -1,0 +1,19 @@
+# Byte-compiled Python
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+release.sh
+
+# MIScnn
+batches/
+predictions/
+
+# Testing
+reinstall.sh
+debugging/
